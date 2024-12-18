@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundedLayout">
+        <attr name="roundedLayout_borderColor" format="color" /> <!-- 테두리 색상 -->
+        <attr name="roundedLayout_backgroundColor" format="color" /> <!-- 배경 색상 -->
+    </declare-styleable>
+
+    <declare-styleable name="IconButtonTextView">
+        <attr name="iconButton_borderColor" format="color" />
+        <attr name="iconButton_backgroundColor" format="color" />
+        <attr name="iconButton_iconSrc" format="reference" />
+        <attr name="iconButton_iconTint" format="color" />
+        <attr name="iconButton_text" format="string" />
+        <attr name="iconButton_textTint" format="color" />
+    </declare-styleable>
+
+</resources>

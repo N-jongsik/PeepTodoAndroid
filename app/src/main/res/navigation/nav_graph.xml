@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph.xml"
+    app:startDestination="@id/mainPageFragment">
+
+
+    <fragment
+        android:id="@+id/mainPageFragment"
+        android:name="com.peeptodo.peep_todo_andorid.ui.todopage.fragments.MainPageFragment"
+        android:label="fragment_todo_main_page"
+        tools:layout="@layout/fragment_todo_main_page" />
+    <fragment
+        android:id="@+id/socialPageFragment"
+        android:name="com.peeptodo.peep_todo_andorid.ui.todopage.fragments.SocialPageFragment"
+        android:label="fragment_todo_social_page"
+        tools:layout="@layout/fragment_todo_social_page" />
+    <fragment
+        android:id="@+id/matrixPageFragment"
+        android:name="com.peeptodo.peep_todo_andorid.ui.todopage.fragments.MatrixPageFragment"
+        android:label="fragment_todo_matrix_page"
+        tools:layout="@layout/fragment_todo_matrix_page" />
+    <fragment
+        android:id="@+id/notificationPageFragment"
+        android:name="com.peeptodo.peep_todo_andorid.ui.todopage.fragments.NotificationPageFragment"
+        android:label="fragment_todo_notification_page"
+        tools:layout="@layout/fragment_todo_notification_page" />
+</navigation>

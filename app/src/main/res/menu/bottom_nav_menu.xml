@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mainPageFragment"
+        android:icon="@drawable/ic_todo"
+        android:title="todo"/>
+
+    <item
+        android:id="@+id/matrixPageFragment"
+        android:icon="@drawable/ic_matrix"
+        android:title="matrix"/>
+
+    <item
+        android:id="@+id/notificationPageFragment"
+        android:icon="@drawable/ic_notification"
+        android:title="notification"/>
+
+    <item
+        android:id="@+id/socialPageFragment"
+        android:icon="@drawable/ic_people"
+        android:title="social"/>
+
+</menu>

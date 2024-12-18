@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_50">#F8FAFC</color>
+    <color name="gray_100">#F1F5F9</color>
+    <color name="gray_200">#E2E8F0</color>
+    <color name="gray_300">#CBD5E1</color>
+    <color name="gray_400">#94A3B8</color>
+    <color name="gray_500">#64748B</color>
+    <color name="gray_600">#475569</color>
+    <color name="gray_700">#334155</color>
+    <color name="gray_800">#1E293B</color>
+    <color name="gray_900">#0F172A</color>
+    <color name="success">#10B981</color>
+    <color name="warning">#FBBF24</color>
+    <color name="error">#EF4444</color>
+    <color name="info">#3B82F6</color>
+    <color name="urgent">#BC44EF</color>
+
+    <!-- 변경될 color -->
+    <color name="color1">#FF6D79</color>
+    <color name="color2">#FF9089</color>
+    <color name="color3">#FFBE94</color>
+    <color name="color4">#FCD268</color>
+    <color name="color5">#C3EA86</color>
+    <color name="color6">#87E3C1</color>
+    <color name="color7">#88BB8D</color>
+    <color name="color8">#D98FDF</color>
+    <color name="color9">#E38E79</color>
+    <color name="color10">#BF9663</color>
+
+</resources>
