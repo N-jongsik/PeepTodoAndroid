@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.peeptodo.peep_todo_andorid"
+    namespace = "com.peeptodo.peep_todo_android"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.peeptodo.peep_todo_andorid"
+        applicationId = "com.peeptodo.peep_todo_android"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

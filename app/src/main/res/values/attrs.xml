@@ -14,4 +14,22 @@
         <attr name="iconButton_textTint" format="color" />
     </declare-styleable>
 
+    <declare-styleable name="SmallIconButtonTextView">
+        <attr name="SmalliconButton_borderColor" format="color" />
+        <attr name="SmalliconButton_backgroundColor" format="color" />
+        <attr name="SmalliconButton_iconSrc" format="reference" />
+        <attr name="SmalliconButton_iconTint" format="color" />
+        <attr name="SmalliconButton_text" format="string" />
+        <attr name="SmalliconButton_textTint" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomCheckBox">
+        <attr name="checkbox_iconColor" format="color"/>
+        <attr name="checkbox_isChecked" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="CustomAddSquare">
+        <attr name="addSquare_color" format="color"/>
+    </declare-styleable>
+
 </resources>

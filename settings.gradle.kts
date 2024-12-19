@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Peep_todo_andorid"
+rootProject.name = "Peep_todo_android"
 include(":app")
